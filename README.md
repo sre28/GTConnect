@@ -13,6 +13,8 @@ Authors:
 
 Demo : 1) App - 
        2) Event Portal - http://advertiser-gt-aic.herokuapp.com/advertisements
+       
+Server Code: https://github.com/ss-sathishsampath/GTConnecthttps://github.com/ss-sathishsampath/GTConnect
 
 ```
 ## Getting Started
