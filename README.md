@@ -11,7 +11,7 @@ Authors:
 	    Sai Tadikonda(saitadikonda001@gmail.com),
 	    
 
-Demo : 1) App - 
+Demo : 1) App - https://youtu.be/ailZ3RBOJeg
        2) Event Portal - http://advertiser-gt-aic.herokuapp.com/advertisements
        
 Server Code: https://github.com/ss-sathishsampath/GTConnecthttps://github.com/ss-sathishsampath/GTConnect
