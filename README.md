@@ -5,13 +5,15 @@ Class: CS 6675 Advanced Internet Computing, College of Computing, Georgia Instit
 Professor & Project Guide: Dr. Ling Liu(lingliu@cc.gatech.edu)
 
 Authors:  
-      Sreyas Sriram(sreyas28@gmail.com),
-      Sathish Sampath(sathishsampath.gt@gmail.com),
+            Sreyas Sriram(sreyas28@gmail.com),
+      	    Sathish Sampath(sathishsampath.gt@gmail.com),
 	    Jenita Lydia Jebasingh(jenita.lydia17@gmail.com),
 	    Sai Tadikonda(saitadikonda001@gmail.com),
 	    
 
-Demo : http://advertiser-gt-aic.herokuapp.com/advertisements
+Demo : 1) App - 
+       2) Event Portal - http://advertiser-gt-aic.herokuapp.com/advertisements
+
 ```
 ## Getting Started
 
