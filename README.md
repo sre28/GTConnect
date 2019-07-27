@@ -1,3 +1,4 @@
+'''
 GTConnect
 Class: CS 6675 Advanced Internet Computing, College of Computing, Georgia Institute of Technology
 
@@ -11,7 +12,7 @@ Authors:
 	    
 
 Demo : http://advertiser-gt-aic.herokuapp.com/advertisements
-
+'''
 ## Getting Started
 
 ## Mesibo Messenger for Android
