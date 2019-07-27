@@ -1,3 +1,19 @@
+GTConnect
+Class: CS 6675 Advanced Internet Computing, College of Computing, Georgia Institute of Technology
+
+Professor & Project Guide: Dr. Ling Liu(lingliu@cc.gatech.edu)
+
+Authors:  
+      Sreyas Sriram(sreyas28@gmail.com),
+      Sathish Sampath(sathishsampath.gt@gmail.com),
+	    Jenita Lydia Jebasingh(jenita.lydia17@gmail.com),
+	    Sai Tadikonda(saitadikonda001@gmail.com),
+	    
+
+Demo : http://advertiser-gt-aic.herokuapp.com/advertisements
+
+## Getting Started
+
 ## Mesibo Messenger for Android
 Mesibo Messenger is an open-source app with real-time messaging, voice and video call features. This repo contains the source code for Mesibo Messenger App for Android. The GitHub repository for iOS version is [here](https://github.com/mesibo/messenger-app-ios).
 
